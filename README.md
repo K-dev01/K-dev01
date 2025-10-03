@@ -1,16 +1,21 @@
-## Hi there 👋
+ 👋## Hi there 👋 I'm Keerthi  
 
-<!--
-**K-dev01/K-dev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I build AI agents,automations, and explore **full-stack web development with AI integration**.  
+I love tackling complex problems, writing research, and building projects that push the boundary of tech. 
 
-Here are some ideas to get you started:
+### 🌱 About Me
+- 🔭 Currently working on **research papers, patents, and AI-driven projects**  
+- 🌱 Learning **full-stack development with AI integration**  
+- 👯 Looking to collaborate and help with **internships**  
+- 💬 Ask me about **Data Structures & Algorithms (DSA)**  
+- 📫 Reach me on https://www.linkedin.com/in/s-a-keerthi-sree-30981132a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: I learn new things for fun ✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Coding Streak Journey
+- 🌱 CodeChef → **250+ days** (my very first coding home 💜)  
+- 🚀 LeetCode → **70+ days** (and growing)  
+- 🔥 Total streak journey: **320+ days**  
+
+✨ I’m Keerthi — always learning, building, and exploring the intersection of **AI + Web + Automation**.  
+
