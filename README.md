@@ -1,21 +1,59 @@
- 👋## Hi there 👋 I'm Keerthi  
+# Hi there, I'm Keerthi   
 
-💡 I build AI agents,automations, and explore **full-stack web development with AI integration**.  
-I love tackling complex problems, writing research, and building projects that push the boundary of tech. 
+💡 I build **AI agents**, **automations**, and explore **full-stack web development with AI integration**.  
+I love solving complex problems, writing research, and creating projects that push the boundaries of technology.
 
-### 🌱 About Me
+---
+
+## 🌱 About Me  
 - 🔭 Currently working on **research papers, patents, and AI-driven projects**  
-- 🌱 Learning **full-stack development with AI integration**  
-- 👯 Looking to collaborate and help with **internships**  
-- 💬 Ask me about **Data Structures & Algorithms (DSA)**  
-- 📫 Reach me on https://www.linkedin.com/in/s-a-keerthi-sree-30981132a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🌱 Learning **MERN stack** and exploring **AI integration in full-stack apps**  
+- 👯 Open to **collaborations, internships**, and innovative projects  
+- 💬 Passionate about **Data Structures & Algorithms (DSA)** and **problem solving**  
+- 📫 Reach me on: *[Add your email or LinkedIn link here]*  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: I learn new things for fun ✨  
 
-🏆 Coding Streak Journey
-- 🌱 CodeChef → **250+ days** (my very first coding home 💜)  
-- 🚀 LeetCode → **70+ days** (and growing)  
-- 🔥 Total streak journey: **320+ days**  
+---
 
-✨ I’m Keerthi — always learning, building, and exploring the intersection of **AI + Web + Automation**.  
+## 🏆 Coding Streak & Achievements  
 
+| Platform | Streak / Activity | Highlights |
+|-----------|-------------------|-------------|
+| 💻 **LeetCode** | 120+ active days | 500+ problems solved — growing every day |
+| 🍜 **CodeChef** | 350+ day streak | **Diamond Badge (100 Days)** • **Gold Badge (500 Problems)** |
+| 🔥 **Total Coding Journey** | 400+ active days | Consistent growth across DSA & competitive programming |
+| 🎓 **Academics** | 10 CGPA | Aspiring **Gold Medalist** for academic excellence |
+| 🧠 **Research & Innovation** | Ongoing | Writing **research papers** and **filing patents** in AI & automation |
+
+---
+
+## 🧰 Hack The Box Achievements  
+
+| Badge | Description |
+|--------|--------------|
+| 🧩 **Intro to Academy** | Completed foundational cybersecurity training |
+| 🐧 **Favourite Seabird (Linux Fundamentals)** | Deep understanding of Linux commands and structure |
+| 🔥 **Unwavering User** | Maintained weekly learning streaks |
+| 🏅 **Constant Champion** | 4 consecutive weekly challenge streaks |
+
+---
+
+## 🚀 Tech Stack & Interests  
+
+**Languages:** C++, Python, JavaScript  
+**Web Development:** HTML, CSS, React.js, Node.js, Express.js, MongoDB  
+**AI & Automation:** OpenAI API, LangChain, Machine Learning, Python Automation  
+**Other Interests:** Cybersecurity (Hack The Box), System Design, Research Writing  
+
+---
+
+## ✨ Coding Philosophy  
+> "Consistency beats intensity — one line of code a day keeps stagnation away."  
+
+I’m Keerthi — always learning, building, and exploring the intersection of **AI × Web × Automation**.  
+Let’s innovate, collaborate, and make technology smarter together 💫  
+
+---
+
+⭐ **“Keep coding, keep building, and keep growing.”**  
