@@ -10,7 +10,6 @@ I love solving complex problems, writing research, and creating projects that pu
 - 🌱 Learning **MERN stack** and exploring **AI integration in full-stack apps**  
 - 👯 Open to **collaborations, internships**, and innovative projects  
 - 💬 Passionate about **Data Structures & Algorithms (DSA)** and **problem solving**  
-- 📫 Reach me on: *[Add your email or LinkedIn link here]*  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: I learn new things for fun ✨  
 
@@ -20,10 +19,10 @@ I love solving complex problems, writing research, and creating projects that pu
 
 | Platform | Streak / Activity | Highlights |
 |-----------|-------------------|-------------|
-| 💻 **LeetCode** | 120+ active days | 500+ problems solved — growing every day |
+| 💻 **LeetCode** | 100+ active days | 60+ problems solved — growing every day |
 | 🍜 **CodeChef** | 350+ day streak | **Diamond Badge (100 Days)** • **Gold Badge (500 Problems)** |
 | 🔥 **Total Coding Journey** | 400+ active days | Consistent growth across DSA & competitive programming |
-| 🎓 **Academics** | 10 CGPA | Aspiring **Gold Medalist** for academic excellence |
+| 🎓 **Academics** | 10 CGPA |Maintaning both Academics & CP |
 | 🧠 **Research & Innovation** | Ongoing | Writing **research papers** and **filing patents** in AI & automation |
 
 ---
@@ -42,8 +41,8 @@ I love solving complex problems, writing research, and creating projects that pu
 ## 🚀 Tech Stack & Interests  
 
 **Languages:** C++, Python, JavaScript  
-**Web Development:** HTML, CSS, React.js, Node.js, Express.js, MongoDB  
-**AI & Automation:** OpenAI API, LangChain, Machine Learning, Python Automation  
+**Web Development:** HTML, CSS,Js,React.js, Node.js, Express.js, MongoDB  
+**AI & Automation:** OpenAI API, LangChain, Machine Learning, Python Automation,Streamlit  
 **Other Interests:** Cybersecurity (Hack The Box), System Design, Research Writing  
 
 ---
