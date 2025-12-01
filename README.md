@@ -22,7 +22,6 @@ I love solving complex problems, writing research, and creating projects that pu
 | 💻 **LeetCode** | 100+ active days | 60+ problems solved — growing every day |
 | 🍜 **CodeChef** | 350+ day streak | **Diamond Badge (100 Days)** • **Gold Badge (500 Problems)** |
 | 🔥 **Total Coding Journey** | 400+ active days | Consistent growth across DSA & competitive programming |
-| 🎓 **Academics** | 10 CGPA |Maintaning both Academics & CP |
 | 🧠 **Research & Innovation** | Ongoing | Writing **research papers** and **filing patents** in AI & automation |
 
 ---
