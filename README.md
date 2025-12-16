@@ -8,8 +8,8 @@ I enjoy solving complex problems, contributing to research and patent work, and 
 
 ## Coding Activity & Achievements
 
-* **LeetCode:** 100+ active days, 60+ problems solved
-* **CodeChef:** 350+ day streak, Diamond Badge (100 Days), Gold Badge (500 Problems)
+* **LeetCode:** 100+ active days, 150+ problems solved
+* **CodeChef:** 350+ day streak,600+ problems solved, Diamond Badge (100 Days), Gold Badge (500 Problems)
 * **Overall Coding Journey:** 400+ active days with consistent DSA engagement
 
 ---
@@ -20,8 +20,6 @@ I enjoy solving complex problems, contributing to research and patent work, and 
 * **Research Papers:** Ongoing work in artificial intelligence, automation, and applied computing
 
 ---
-
-## Tech Stack
 
 ## Tech Stack
 
@@ -37,7 +35,6 @@ I enjoy solving complex problems, contributing to research and patent work, and 
 ## Profiles & Links
 
 GitHub • LinkedIn • LeetCode • CodeChef • Codolio
-
 
 ---
 
