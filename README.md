@@ -1,57 +1,50 @@
-# Hi there, I'm Keerthi   
 
-💡 I build **AI agents**, **automations**, and explore **full-stack web development with AI integration**.  
-I love solving complex problems, writing research, and creating projects that push the boundaries of technology.
+#I m Keerthi
 
----
+I am a computer science student focused on building AI-driven systems, automation tools, and full-stack web applications with intelligent integrations. My interests lie at the intersection of artificial intelligence, scalable software, and applied research.
 
-## 🌱 About Me  
-- 🔭 Currently working on **research papers, patents, and AI-driven projects**  
-- 🌱 Learning **MERN stack** and exploring **AI integration in full-stack apps**  
-- 👯 Open to **collaborations, internships**, and innovative projects  
-- 💬 Passionate about **Data Structures & Algorithms (DSA)** and **problem solving**  
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: I learn new things for fun ✨  
+I enjoy solving complex problems, contributing to research and patent work, and building projects that translate theory into real-world impact.
 
 ---
 
-## 🏆 Coding Streak & Achievements  
+## Coding Activity & Achievements
 
-| Platform | Streak / Activity | Highlights |
-|-----------|-------------------|-------------|
-| 💻 **LeetCode** | 100+ active days | 60+ problems solved — growing every day |
-| 🍜 **CodeChef** | 350+ day streak | **Diamond Badge (100 Days)** • **Gold Badge (500 Problems)** |
-| 🔥 **Total Coding Journey** | 400+ active days | Consistent growth across DSA & competitive programming |
-| 🧠 **Research & Innovation** | Ongoing | Writing **research papers** and **filing patents** in AI & automation |
+* **LeetCode:** 100+ active days, 60+ problems solved
+* **CodeChef:** 350+ day streak, Diamond Badge (100 Days), Gold Badge (500 Problems)
+* **Overall Coding Journey:** 400+ active days with consistent DSA engagement
 
 ---
 
-## 🧰 Hack The Box Achievements  
+## Patents & Research
 
-| Badge | Description |
-|--------|--------------|
-| 🧩 **Intro to Academy** | Completed foundational cybersecurity training |
-| 🐧 **Favourite Seabird (Linux Fundamentals)** | Deep understanding of Linux commands and structure |
-| 🔥 **Unwavering User** | Maintained weekly learning streaks |
-| 🏅 **Constant Champion** | 4 consecutive weekly challenge streaks |
+* **Patent:** *FemoraX* — Published patent focused on innovative technological solutions
+* **Research Papers:** Ongoing work in artificial intelligence, automation, and applied computing
 
 ---
 
-## 🚀 Tech Stack & Interests  
+## Tech Stack
 
-**Languages:** C++, Python, JavaScript  
-**Web Development:** HTML, CSS,Js,React.js, Node.js, Express.js, MongoDB  
-**AI & Automation:** OpenAI API, LangChain, Machine Learning, Python Automation,Streamlit  
-**Other Interests:** Cybersecurity (Hack The Box), System Design, Research Writing  
-
----
-
-## ✨ Coding Philosophy  
-> "Consistency beats intensity — one line of code a day keeps stagnation away."  
-
-I’m Keerthi — always learning, building, and exploring the intersection of **AI × Web × Automation**.  
-Let’s innovate, collaborate, and make technology smarter together 💫  
+| Category            | Technologies                                                                                                                                                                                                                                                                                                                    |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> |
+| **Frontend**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/>                       |
+| **Backend**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="22"/>                                                                                                                   |
+| **Database**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22"/>                                                                                                                                                                                                                         |
+| **AI & Automation** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> OpenAI API · LangChain · Machine Learning · Streamlit                                                                                                                                                                     |
 
 ---
 
-⭐ **“Keep coding, keep building, and keep growing.”**  
+## Profiles & Links
+
+GitHub • LinkedIn • LeetCode • CodeChef • Codolio
+[https://codolio.com/your-profile-link](https://codolio.com/your-profile-link)
+
+---
+
+## Coding Philosophy
+
+Consistency outweighs intensity. Sustainable progress comes from showing up every day and improving incrementally.
+
+---
+
+
