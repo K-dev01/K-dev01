@@ -8,8 +8,8 @@ I enjoy solving complex problems, contributing to research and patent work, and 
 
 ## Coding Activity & Achievements
 
-* **LeetCode:** 100+ active days, 150+ problems solved
-* **CodeChef:** 350+ day streak,600+ problems solved, Diamond Badge (100 Days), Gold Badge (500 Problems)
+* **LeetCode:** 100+ active days, ??? + problems solved
+* **CodeChef:** 350+ day streak,6??+ problems solved, Diamond Badge (100 Days), Gold Badge (500 Problems)
 * **Overall Coding Journey:** 400+ active days with consistent DSA engagement
 
 ---
