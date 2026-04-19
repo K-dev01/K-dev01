@@ -29,7 +29,6 @@ I enjoy solving complex problems, contributing to research and patent work, and 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=K-dev01&icon=0&color=0)](https://visitcount.itsvg.in)
 
